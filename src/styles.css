@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #7c7c7c;
+    font-size: 24px;
+    font-weight: 100;
+    line-height: 28px;
+    margin: 10px 0;
+}
+
+ul {
+    margin: 10px 0 10px;
+    padding: 0;
+}
+
+li {
+    color: #7c7c7c;
+    font-size: 16px;
+    font-weight: 100;
+    height: 19px;
+    line-height: 1;
+    list-style: none;
+}
+
+img {
+    width: 60px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.weatherApp-wrapper {
+    border: 1px solid #dadde1;
+    padding: 15px;
+    margin: 0 auto;
+    max-width: 70%;
+    border-radius: 20px;
+}
+
+.weather-icon {
+    position: relative;
+    top: -30px;
+    margin-right: 10px;
+}
+
+.temperature-wrapper {
+    color: #7c7c7c;
+    font-size: 100px;
+    font-weight: 400;
+    line-height: 1;
+}
+
+.units {
+    position: relative;
+    top: -42px;
+
+}
+
+.currentCity {
+    text-transform: capitalize;
+}
+
+.atmosphere {
+    text-transform: capitalize;
+}
+
+
+
